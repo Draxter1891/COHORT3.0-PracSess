@@ -67,7 +67,7 @@ This repository contains my daily coding practice, assignments, experiments, and
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Draxter1891&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Draxter1891&theme=tokyonight)
 
 ---
 
@@ -79,7 +79,7 @@ This repository contains my daily coding practice, assignments, experiments, and
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Draxter1891/Draxter1891/output/snake.svg)
 
 ---
 
